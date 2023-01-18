@@ -5,6 +5,8 @@
   tagline = ""
   composer = "arr. C. V. Stanford"
 }
+#(set-default-paper-size "a5" 'landscape)
+
 Key = \key g \major
 TwoVoicesPerStaff = ##t
 SopranoMusic = \relative {
@@ -66,7 +68,7 @@ VerseTwo = \lyricmode {
   Chris -- tus sei un -- ter,
   Chris -- tus ü -- ber,
   sei mir Ru -- he,
-  in Ge -- fähr -- de,
+  al -- le Stun -- de.
   Chris -- tus sei
   im Herz -- en und Hän -- den.
   Stärk -- e mich fort und fort zu ge -- hen.
